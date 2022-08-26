@@ -9,16 +9,17 @@ https://www.udemy.com/course/concept-art-beginners-class/
 
 # Progress so far
 
-![image](https://user-images.githubusercontent.com/3318539/183344352-5f8ae200-cb4f-4e6d-902e-4a091f3802e4.png)
+TODO IMAGE
+
 
 ## Finished Section 1
 
-
+TODO
 
 ## Started Section 2
 
 
-
+TODO
 
 
 # Photoshop setting
@@ -39,6 +40,7 @@ https://www.udemy.com/course/concept-art-beginners-class/
 # Xkeys 16 settings
 
 
+TODO
 
 
 
@@ -46,6 +48,10 @@ https://www.udemy.com/course/concept-art-beginners-class/
 
 
 
+TODO
 
 
 # Blender settings
+
+
+TODO
